@@ -1,0 +1,11 @@
+# Flask
+# requests
+# pandas
+# scikit-learn
+# joblib
+
+Flask==3.0.0
+scikit-learn==1.6.1
+pandas==2.2.2
+joblib==1.4.2
+gunicorn==21.2.0
